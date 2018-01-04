@@ -16,7 +16,7 @@ build: `npm run ionic:build --prod`
 ## Sobre o Projeto
 Aplicação PWA utilizando o Framework Ionic, e hospedado utilizando Firebase.
 
-Acessar: (cryptopwa-44208.firebaseapp.com/) 
+Acessar: https://cryptopwa-44208.firebaseapp.com/ 
 
 ## Descrição
 Aplicação para consultar equivalência de cryptomoedas em dólares.
